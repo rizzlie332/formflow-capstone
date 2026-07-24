@@ -12,4 +12,4 @@ This project is a Dockerized 3-tier application with a complete CI/CD pipeline.
 - Azure
 
 ## Author
-Adeomiwa Oloksesusi
+Adetomiwa Olokesusi
